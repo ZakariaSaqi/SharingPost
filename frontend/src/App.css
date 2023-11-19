@@ -1,0 +1,14 @@
+.home-background-image{
+    background: url(./images/create-3026190_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    margin-bottom: 40px;
+}
+.latest-post-card-description{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
